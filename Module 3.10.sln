@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module 3.10", "Module 3.10.csproj", "{8C415CF9-38EA-4A9F-B4F2-7DC37CBA72B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasc1", "Tasc1.csproj", "{8C415CF9-38EA-4A9F-B4F2-7DC37CBA72B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasc2", "Tasc2\Tasc2.csproj", "{719EB5FE-36D7-4271-A1EE-EA2B79DCB5D7}"
 EndProject
